@@ -6,4 +6,4 @@
 
 ✉️&nbsp;[laserstvocenda@gmail.com](mailto:laserstvocenda@gmail.com)
 
-📍&nbsp;&nbsp;[Davča, Slovenija](https://goo.gl/maps/FY5tsuZKHNvPBPZq9)
+📍&nbsp;&nbsp;[Davča, Slovenija](https://goo.gl/maps/goKYXGUZCRybeiCu8)
