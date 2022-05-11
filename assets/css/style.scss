@@ -11,5 +11,8 @@ header {
 
     img {
         margin-right: 50px;
+        border: none;
+        box-shadow: none;
+        --webkit-box-shadow: none;
     }
 }
